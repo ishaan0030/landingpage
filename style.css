@@ -6,6 +6,7 @@
 }
 body{
     font-family: 'Mate SC',serif;
+    overflow-x: hidden;
 }
 .header{
     min-height: 100vh;
@@ -64,6 +65,7 @@ nav img{
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
+    
 }
 .text-box h1{
     font-size: 60px;
